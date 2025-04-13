@@ -19,7 +19,7 @@
 
 ### 🧠 Stack actual
 
-<img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,reactnative,tailwind,typescript,postgresql,aws,docker,git,linux&perline=6" />
+<img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,flutter,tailwind,typescript,postgresql,aws,docker,git,linux&perline=6" />
 
 ---
 
